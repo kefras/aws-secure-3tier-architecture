@@ -11,7 +11,7 @@ The application architecture follows end-to-end routing:
 ## 🏗️ Architecture Design & Components
 
 <p align="center">
-  <img src="./aws-project2-professional.drawio.png" alt="Architecture Diagram" width="450">
+  <img src="./aws-project2-professional.drawio.png" alt="Architecture Diagram" width="350">
 </p>
 
 ### 1. Compute Layer & Auto Scaling
